@@ -1,5 +1,5 @@
 
-##React frontend for Moviebase
+## React frontend for Moviebase
 
 ![screenshot](screenshots/main_screen.jpg)
 
